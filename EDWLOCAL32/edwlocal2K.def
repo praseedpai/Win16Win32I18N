@@ -1,0 +1,22 @@
+LIBRARY  EDWLOCAL2K
+DESCRIPTION "EDWIN LOCALIZATION DLL"
+
+EXPORTS 
+     DllMain         
+     L32_Object_Create
+	 L32_Object_Delete
+     L32_Object_GetMessage
+     L32_Object_ReCreate
+  
+
+
+
+
+
+
+
+
+
+
+
+

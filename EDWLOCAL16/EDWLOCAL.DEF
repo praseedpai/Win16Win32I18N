@@ -1,0 +1,11 @@
+LIBRARY   EDWLOCAL
+EXETYPE   WINDOWS
+CODE      PRELOAD MOVEABLE DISCARDABLE
+DATA      PRELOAD FIXED SINGLE 
+HEAPSIZE  32000
+EXPORTS
+          WEP @1 RESIDENTNAME
+          LZ_LoadString    
+          LZ_GetMsg       
+          LZ_UnLoadString 
+         

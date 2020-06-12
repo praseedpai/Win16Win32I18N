@@ -1,0 +1,14 @@
+[MSVC Status File]
+Version=1.00
+ProjectType=10
+ArgsOrCaller=C:\edwinlc\edwin.exe
+External=0
+BrkptCount=0
+WatchCount=7
+WatchExpr1=msg_id + 2
+WatchExpr2=msg_id
+WatchExpr3=msg_id+1
+WatchExpr4=msg_id+2
+WatchExpr5=+msg_id+3
+WatchExpr6=msg_id+3
+WatchExpr7=msg_id+6
